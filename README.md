@@ -28,23 +28,24 @@ Dê uma olhada nos projetos ativos que estamos desenvolvendo e considere contrib
 
 ## 👥 Junte-se à Comunidade
 
-Além do GitHub, nós também temos uma comunidade ativa no **[Discord](https://discord.gg/link-da-comunidade)**, onde os desenvolvedores podem discutir ideias, resolver problemas em conjunto e participar de eventos e workshops.
+Além do GitHub, nós também temos uma comunidade ativa no **[Discord](https://discord.gg/https://discord.gg/CUHETJYe)**, onde os desenvolvedores podem discutir ideias, resolver problemas em conjunto e participar de eventos e workshops.
 
 ## 🛠️ Tecnologias Que Usamos
 
 Aqui estão algumas das tecnologias principais que você encontrará em nossos projetos:
 
-- **Front-end**: React, Vue.js, HTML, CSS, TailwindCSS
-- **Back-end**: Node.js, Express, Django
-- **Mobile**: React Native, Flutter
-- **Banco de Dados**: PostgreSQL, MongoDB, Firebase
+- **Front-end**: React, Vue.js, Next.js HTML, CSS, TailwindCSS
+- **Back-end**: Node.js, Express.
+- **Mobile**: React Native, Expo...
+- **Banco de Dados**: PostgreSQL, MongoDB, Firebase....
 - **Infraestrutura**: Docker, Kubernetes, CI/CD, AWS, Netlify
-- **Outras**: GraphQL, TypeScript, WebSockets
+- **Outras**:  TypeScript, javascript ....
 
 ## 🤝 Como Contribuir
 
-Estamos sempre à procura de novos colaboradores. Se você quer fazer parte de nossos projetos ou ajudar a melhorar a comunidade, veja como começar:
-
+Estamos sempre à procura de novos colaboradores. Se você quer fazer parte de nossos projetos ou ajudar a melhorar a comunidade, **veja como começar**
+- escolhe um projeto do seu interece, depois siga alguma dicas básicas:
+  
 1. **Clone o Repositório**: Fork o projeto que você deseja colaborar.
 2. **Crie uma Branch**: (`git checkout -b feature/nova-feature`).
 3. **Implemente a Feature** e faça os commits (`git commit -m 'Adiciona nova funcionalidade'`).
