@@ -113,7 +113,7 @@ Claro! Todos são bem-vindos. Existem issues de diferentes níveis de complexida
 Você pode criar uma issue descrevendo sua sugestão. Certifique-se de ser detalhado(a) para que todos possam entender e discutir sua ideia.
 
 4. Como posso contatar a equipe?
-Você pode entrar em contato via nosso Discord ou enviando um e-mail para contato@devmaster.com.
+Você pode entrar em contato via nosso Discord ou enviando um e-mail para devmaster.pt@gmail.com.
 
 📞 Contato
 Se você tiver mais dúvidas ou precisar de suporte, entre em contato conosco pelos seguintes canais:
