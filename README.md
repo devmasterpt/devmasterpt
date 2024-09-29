@@ -57,7 +57,7 @@ Consulte nosso [Guia de Contribuição](https://github.com/devmaster/guia-de-con
 
 Se você tiver alguma dúvida, sugestão ou quiser discutir parcerias, entre em contato conosco por:
 
-- **Email**: contato@devmaster.com
+- **Email**: devmaster.pt@gmail.com
 - **LinkedIn**: [Devmaster](https://linkedin.com/company/devmaster)
 
 Estamos sempre abertos para novas ideias e discussões!
