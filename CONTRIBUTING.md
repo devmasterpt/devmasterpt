@@ -118,7 +118,8 @@ Você pode entrar em contato via nosso Discord ou enviando um e-mail para contat
 📞 Contato
 Se você tiver mais dúvidas ou precisar de suporte, entre em contato conosco pelos seguintes canais:
 
-Discord: Entre na nossa comunidade
+Discord: Entre na nossa comunidade 
+https://discord.gg/CUHETJYe
 Email: devmaster.pt@gmail.com
 LinkedIn: Devmaster no LinkedIn
 
