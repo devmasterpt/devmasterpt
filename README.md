@@ -51,7 +51,7 @@ Estamos sempre à procura de novos colaboradores. Se você quer fazer parte de n
 3. **Implemente a Feature** e faça os commits (`git commit -m 'Adiciona nova funcionalidade'`).
 4. **Envie um Pull Request**: Nós revisaremos e daremos feedback o mais rápido possível.
 
-Consulte nosso [Guia de Contribuição](https://github.com/devmaster/guia-de-contribuicao) para mais detalhes.
+Consulte nosso [Guia de Contribuição](https://github.com/devmasterpt/devmasterpt/blob/main/CONTRIBUTING.md) para mais detalhes.
 
 ## 📧 Contato
 
