@@ -23,7 +23,7 @@ Aqui na **Devmaster**, estamos constantemente trabalhando em novos projetos que 
 
 Dê uma olhada nos projetos ativos que estamos desenvolvendo e considere contribuir com eles:
 
-- **[Sistema de Gestão Escolar](https://github.com/devmaster/sistema-gestao-escolar)**: Uma plataforma para gerenciar escolas, com módulos para alunos, professores e administração.
+- **[Sistema de Gestão Escolar](https://github.com/devmaster/sistema-de-gestao-escolar)**: Uma plataforma para gerenciar escolas, com módulos para alunos, professores e administração.
 - **[Desafios de Programação](https://github.com/devmaster/desafios-de-programacao)**: Um repositório cheio de desafios para praticar suas habilidades.
 
 ## 👥 Junte-se à Comunidade
